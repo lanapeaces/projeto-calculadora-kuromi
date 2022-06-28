@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+     background-image: url(https://m.media-amazon.com/images/I/81E11zOSdwS._AC_SX425_.jpg);
+     background-repeat: no-repeat;
+     color:blue;
+     height: auto;
+     width: 270px;
+     padding: 20px;
+     border-radius: center;
+     text-align: center;
+}
+
+.btn{
+    height: auto;
+    width: 40px;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/48/d4/bd/48d4bd7074e22d7a1535fe813fb59005.jpg);
+}
